@@ -16,7 +16,7 @@ O principal objetivo deste trabalho é aplicar técnicas de **Aprendizado Não S
 
 ## 💾 Dados Utilizados
 
-* **Fonte:** [Insira o nome exato do Dataset, ex: Heart Failure Clinical Records Dataset]
+* **Fonte:** Heart Failure Clinical Records Dataset
 * **Arquivo:** `heart_failure_clinical_records_dataset.csv`
 * **Descrição:** O dataset contém dados clínicos e laboratoriais de 299 pacientes, coletados durante o acompanhamento de 28 a 244 dias.
 
