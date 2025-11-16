@@ -72,3 +72,4 @@ Para replicar esta análise, você precisará ter o Python instalado (versão 3.
 python -m venv .venv
 .venv\Scripts\activate  # Para Windows (PowerShell/CMD)
 # source .venv/bin/activate # Para Linux/MacOS
+pip install pandas scikit-learn matplotlib joblib tabulate
