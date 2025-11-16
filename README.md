@@ -43,7 +43,7 @@ O projeto foi desenvolvido em Python e segue o seguinte pipeline de Machine Lear
 ### 2. Determinação do K Ótimo
 * **Técnica:** **Método do Cotovelo (Elbow Method)**.
 * **Justificativa:** A Curva WCSS (Soma dos Quadrados Dentro do Cluster) foi analisada para determinar o ponto de inflexão que minimiza a distorção.
-* **Resultado:** O número ótimo de clusters (K) definido foi: **K = [Insira seu K Ótimo aqui, ex: 3]**.
+* **Resultado:** O número ótimo de clusters (K) definido foi: **K = 3**.
 
 ### 3. Treinamento e Análise de Centróides
 * **Modelo:** K-Means treinado com o K ótimo.
